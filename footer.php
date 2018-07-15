@@ -36,9 +36,9 @@
 
 
   <!--  Scripts-->
-  <script src="js/jquery.js"></script>
-  <script src="js/materialize.js"></script>
-  <script src="js/init.js"></script>
+  <script src="jquery.js"></script>
+  <script src="materialize.js"></script>
+  <script src="init.js"></script>
     <script>
         $(document).ready(function(){
         $('.carousel.carousel-slider').carousel({
